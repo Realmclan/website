@@ -1,5 +1,5 @@
 # Team website
-This is my Team website (Realm Clan) <img class="emoticon" src="assets/icons/rose.png">
+This is my Team website (Realm Clan)
 
 Preview - https://realmclan.github.io/website/
 
