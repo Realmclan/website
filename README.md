@@ -1,7 +1,7 @@
 # Team website
-This is my Team website (Realm Clan)
+This is my Team website
 
-Preview - https://realmclan.github.io/website/
+Preview - http://realmclan.online
 
 
 ## Features:
